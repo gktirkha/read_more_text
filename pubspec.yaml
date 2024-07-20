@@ -2,6 +2,7 @@ name: read_more_text
 description: "A new Flutter package project."
 version: 0.0.1
 homepage: https://github.com/gktirkha/read_more_text
+repository: https://github.com/gktirkha/read_more_text
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
