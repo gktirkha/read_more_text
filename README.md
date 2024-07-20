@@ -9,6 +9,8 @@
 - Support for custom text styles and link styles.
 - Adjustable maximum width and maximum lines.
 
+> If you prefer, You may find the dart-doc version of the documentation [here](https://gktirkha.github.io/flutter_packages_doc/read_more_text/)
+
 ## Installation
 
 Add `read_more_text` to your `pubspec.yaml` file:
